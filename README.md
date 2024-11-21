@@ -2,7 +2,7 @@
   <br>
   <img src="ds.png" alt="citrus" width=""></a>
   <br>
-  <b>Citrus DS</b>
+  <b>CitrusDS</b>
   <br>
   <sub><sup><b>A fast, non-profit DS emulator.</b></sup></sub>
   <br>
@@ -17,9 +17,9 @@
 </h1>
 
 <p align="center">
-  Uzuy is the ultimate Nintendo Switch emulator, originally created by the citra developers, and then continued by Phoenix.
-Uzuy Remastered is the continuation to Uzuy, but also Yuzu and it is written in C#.
-  This emulator aims at providing excellent accuracy and performance, a user-friendly interface and consistent builds.
-  Uzuy is available on Github under the <a href="https://github.com/uzuy-emul/uzuy/blob/master/LICENSE" target="_blank"> GNU GENERAL PUBLIC LICENSE</a>.
+  CitrusDS is a fast, non-profit DS emulator made for android devices.
+  CitrusDS is based off the emulator "melonDS". Even thought melonDS is alive, i made this project for fun.
+  This is a learning project. Its not perfect!
+  CitrusDS is available on Github under the <a href="https://github.com/axterv2/citrus-ds/uzuy/blob/master/LICENSE" target="_blank"> GNU GENERAL PUBLIC LICENSE</a>.
   <br />
 </p>
